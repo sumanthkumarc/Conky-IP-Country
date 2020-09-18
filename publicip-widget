@@ -1,0 +1,39 @@
+background yes
+double_buffer yes
+alignment bottom_right
+border_width 1
+cpu_avg_samples 2
+default_color white
+default_outline_color white
+default_shade_color white
+draw_borders no
+draw_graph_borders yes
+draw_outline no
+draw_shades no
+gap_x 0
+gap_y 0
+net_avg_samples 2
+no_buffers yes
+out_to_console no
+out_to_stderr no
+extra_newline no
+own_window yes
+own_window_type panel
+own_window_hints above
+minimum_size 170 0
+stippled_borders 0
+update_interval 2.0
+uppercase no
+use_spacer none
+show_graph_scale no
+show_graph_range no
+use_xft yes
+xftalpha 0.1
+xftfont Droid Sans:size=10
+color0 white
+own_window_argb_value 0
+own_window_transparent no
+own_window_argb_visual no
+own_window_colour 000000
+TEXT
+${execi 3 ./data.sh}
