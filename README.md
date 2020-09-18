@@ -1,3 +1,5 @@
+Inspired and shamelessly copied code from https://github.com/ZeeshanLive/conky-publicip-widget
+
 step 1 : Install conky and conky manager 
          https://vitux.com/how-to-install-conky-and-conky-manager-on-ubuntu/
 	
